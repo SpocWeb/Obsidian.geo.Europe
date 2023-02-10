@@ -1,0 +1,22 @@
+﻿---
+location: [,]
+type: Country
+tags: [geo/Country]
+---
+[KWebEntityId::59063]
+[IsDeleted::0]
+[IsPrivate::0]
+[ISO2::]
+[ISO3::DDR]
+[name-en::East Germany]
+[name-de::DDR]
+[Area-Total::]
+[Area-Land::]
+[Continent::[[Europe]]]
+[VehicleCode::DDR]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::497]
+[geo-lon::]
+[geo-lat::]
+

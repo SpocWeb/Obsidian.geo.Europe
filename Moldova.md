@@ -1,0 +1,22 @@
+﻿---
+location: [47,28.9167]
+type: Country
+tags: [geo/Country]
+---
+[KWebEntityId::26958]
+[IsDeleted::0]
+[IsPrivate::0]
+[ISO2::MD]
+[ISO3::MDA]
+[name-en::Moldova]
+[name-de::Moldawien, Republic of]
+[Area-Total::33700]
+[Area-Land::32970]
+[Continent::[[Europe]]]
+[VehicleCode::MD]
+[Capital::[[Chisinau]]]
+[Alcohol-l::18.2]
+[Language-Id::]
+[geo-lon::28.9167]
+[geo-lat::47]
+
