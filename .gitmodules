@@ -1,0 +1,75 @@
+[submodule "Portugal"]
+	path = Portugal
+	url = https://github.com/SpocWeb/Obsidian.Portugal
+[submodule "Bulgaria"]
+	path = Bulgaria
+	url = https://github.com/SpocWeb/Obsidian.Bulgaria
+[submodule "Liechtenstein"]
+	path = Liechtenstein
+	url = https://github.com/SpocWeb/Obsidian.Liechtenstein
+[submodule "Albania"]
+	path = Albania
+	url = https://github.com/SpocWeb/Obsidian.Albania
+[submodule "Romania"]
+	path = Romania
+	url = https://github.com/SpocWeb/Obsidian.Romania
+[submodule "Norway"]
+	path = Norway
+	url = https://github.com/SpocWeb/Obsidian.Norway
+[submodule "Luxembourg"]
+	path = Luxembourg
+	url = https://github.com/SpocWeb/Obsidian.Luxembourg
+[submodule "Belgium"]
+	path = Belgium
+	url = https://github.com/SpocWeb/Obsidian.Belgium
+[submodule "Ireland"]
+	path = Ireland
+	url = https://github.com/SpocWeb/Obsidian.Ireland
+[submodule "Denmark"]
+	path = Denmark
+	url = https://github.com/SpocWeb/Obsidian.Denmark
+[submodule "Hungary"]
+	path = Hungary
+	url = https://github.com/SpocWeb/Obsidian.Hungary
+[submodule "Yugoslavia"]
+	path = Yugoslavia
+	url = https://github.com/SpocWeb/Obsidian.Yugoslavia
+[submodule "Netherlands"]
+	path = Netherlands
+	url = https://github.com/SpocWeb/Obsidian.Netherlands
+[submodule "Spain"]
+	path = Spain
+	url = https://github.com/SpocWeb/Obsidian.Spain
+[submodule "Switzerland"]
+	path = Switzerland
+	url = https://github.com/SpocWeb/Obsidian.Switzerland
+[submodule "Czech_Rep"]
+	path = Czech_Rep
+	url = https://github.com/SpocWeb/Obsidian.Czech_Rep
+[submodule "Sweden"]
+	path = Sweden
+	url = https://github.com/SpocWeb/Obsidian.Sweden
+[submodule "Finland"]
+	path = Finland
+	url = https://github.com/SpocWeb/Obsidian.Finland
+[submodule "France"]
+	path = France
+	url = https://github.com/SpocWeb/Obsidian.France
+[submodule "Italy"]
+	path = Italy
+	url = https://github.com/SpocWeb/Obsidian.Italy
+[submodule "Poland"]
+	path = Poland
+	url = https://github.com/SpocWeb/Obsidian.Poland
+[submodule "United_Kingdom"]
+	path = United_Kingdom
+	url = https://github.com/SpocWeb/Obsidian.geo.United_Kingdom
+[submodule "Russia"]
+	path = Russia
+	url = https://github.com/SpocWeb/Obsidian.geo.Russia
+[submodule "Austria"]
+	path = Austria
+	url = https://github.com/SpocWeb/Obsidian.geo.Austria
+[submodule "Germany"]
+	path = Germany
+	url = https://github.com/SpocWeb/Obsidian.geo.Germany
