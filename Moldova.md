@@ -1,11 +1,12 @@
 ﻿---
 location: [47,28.9167]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26958]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26958
+isDeleted: false
+confidential: public
 [ISO2::MD]
 [ISO3::MDA]
 [name-en::Moldova]

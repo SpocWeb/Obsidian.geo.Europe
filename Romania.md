@@ -1,11 +1,12 @@
 ﻿---
 location: [46.2258,24.9906]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27006]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27006
+isDeleted: false
+confidential: public
 [ISO2::RO]
 [ISO3::ROM]
 [name-en::Romania]

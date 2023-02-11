@@ -1,11 +1,12 @@
 ﻿---
 location: [41.98,21.43]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26961]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26961
+isDeleted: false
+confidential: public
 [ISO2::MK]
 [ISO3::MKD]
 [name-en::Macedonia, FYR]

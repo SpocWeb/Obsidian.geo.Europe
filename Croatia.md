@@ -1,11 +1,12 @@
 ﻿---
 location: [45.8,15.97]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26919]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26919
+isDeleted: false
+confidential: public
 [ISO2::HR]
 [ISO3::HRV]
 [name-en::Croatia]

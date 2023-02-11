@@ -1,11 +1,12 @@
 ﻿---
 location: [35.1333,33.4667]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::4948]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 4948
+isDeleted: false
+confidential: public
 [ISO2::CY]
 [ISO3::CYP]
 [name-en::Cyprus]

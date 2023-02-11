@@ -1,11 +1,12 @@
 ﻿---
 location: [62,-6.78333]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26895]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26895
+isDeleted: false
+confidential: public
 [ISO2::FO]
 [ISO3::FRO]
 [name-en::Faeroe Islands]

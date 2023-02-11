@@ -1,11 +1,12 @@
 ﻿---
 location: [43.4809,11.8169]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26930]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26930
+isDeleted: false
+confidential: public
 [ISO2::IT]
 [ISO3::ITA]
 [name-en::Italy]

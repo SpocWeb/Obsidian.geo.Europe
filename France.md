@@ -1,11 +1,12 @@
 ﻿---
 location: [46.8944,2.33663]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26896]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26896
+isDeleted: false
+confidential: public
 [ISO2::FR]
 [ISO3::FRA]
 [name-en::France]

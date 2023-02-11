@@ -1,11 +1,12 @@
 ﻿---
 location: [42.9342,25.3029]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26846]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26846
+isDeleted: false
+confidential: public
 [ISO2::BG]
 [ISO3::BGR]
 [name-en::Bulgaria]

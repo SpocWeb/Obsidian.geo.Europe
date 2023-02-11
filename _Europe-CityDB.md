@@ -1,9 +1,9 @@
----
 
+---
 database-plugin: basic
 
----
 
+---
 ```yaml:dbfolder
 name: Cities-Europe
 description: Prominent Cities in Europe
@@ -27,12 +27,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  IsDeleted:
+  isDeleted:
     input: text
-    accessorKey: IsDeleted
-    label: IsDeleted
-    key: IsDeleted
-    id: IsDeleted
+    accessorKey: isDeleted
+    label: isDeleted
+    key: isDeleted
+    id: isDeleted
     position: 1
     skipPersist: false
     isHidden: false

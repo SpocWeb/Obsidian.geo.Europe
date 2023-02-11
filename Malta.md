@@ -1,11 +1,12 @@
 ﻿---
 location: [35.9,14.52]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26970]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26970
+isDeleted: false
+confidential: public
 [ISO2::MT]
 [ISO3::MLT]
 [name-en::Malta]

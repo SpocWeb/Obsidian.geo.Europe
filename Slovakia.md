@@ -1,11 +1,12 @@
 ﻿---
 location: [48.13,17.1]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27018]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27018
+isDeleted: false
+confidential: public
 [ISO2::SK]
 [ISO3::SVK]
 [name-en::Slovakia]

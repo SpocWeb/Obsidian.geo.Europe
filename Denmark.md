@@ -1,11 +1,12 @@
 ﻿---
 location: [55.6789,10.5]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26880]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26880
+isDeleted: false
+confidential: public
 [ISO2::DK]
 [ISO3::DNK]
 [name-en::Denmark]

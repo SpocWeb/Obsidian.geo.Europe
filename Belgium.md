@@ -1,11 +1,12 @@
 ﻿---
 location: [50.8165,4.29368]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26844]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26844
+isDeleted: false
+confidential: public
 [ISO2::BE]
 [ISO3::BEL]
 [name-en::Belgium]

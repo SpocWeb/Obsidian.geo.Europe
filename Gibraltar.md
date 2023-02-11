@@ -1,11 +1,12 @@
 ﻿---
 location: [36.143,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26904]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26904
+isDeleted: false
+confidential: public
 [ISO2::GI]
 [ISO3::GIB]
 [name-en::Gibraltar]

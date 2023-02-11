@@ -1,11 +1,12 @@
 ﻿---
 location: [,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::59062]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 59062
+isDeleted: false
+confidential: public
 [ISO2::CZ]
 [ISO3::]
 [name-en::Czechoslovakia]

@@ -1,11 +1,12 @@
 ﻿---
 location: [56.95,24.11]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26954]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26954
+isDeleted: false
+confidential: public
 [ISO2::LV]
 [ISO3::LVA]
 [name-en::Latvia]

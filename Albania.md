@@ -1,11 +1,12 @@
 ﻿---
 location: [40.793,19.9565]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26830]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26830
+isDeleted: false
+confidential: public
 [ISO2::AL]
 [ISO3::ALB]
 [name-en::Albania]

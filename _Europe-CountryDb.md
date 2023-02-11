@@ -1,19 +1,19 @@
----
 
+---
 database-plugin: basic
 
----
 
+---
 ```yaml:dbfolder
 name: Countries
 description: Table of all Countries
 columns:
-  KWebEntityId:
+  SpocWebEntityId:
     input: number
-    accessorKey: KWebEntityId
-    label: KWebEntityId
-    key: KWebEntityId
-    id: KWebEntityId
+    accessorKey: SpocWebEntityId
+    label: SpocWebEntityId
+    key: SpocWebEntityId
+    id: SpocWebEntityId
     position: 0
     skipPersist: false
     isHidden: false
@@ -28,12 +28,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  IsDeleted:
+  isDeleted:
     input: checkbox
-    accessorKey: IsDeleted
-    label: IsDeleted
-    key: IsDeleted
-    id: IsDeleted
+    accessorKey: isDeleted
+    label: isDeleted
+    key: isDeleted
+    id: isDeleted
     position: 1
     skipPersist: false
     isHidden: false
@@ -47,12 +47,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  IsPrivate:
+  confidential:
     input: select
-    accessorKey: IsPrivate
-    label: IsPrivate
-    key: IsPrivate
-    id: IsPrivate
+    accessorKey: confidential
+    label: confidential
+    key: confidential
+    id: confidential
     position: 2
     skipPersist: false
     isHidden: false
@@ -60,7 +60,7 @@ columns:
     options:
       - { label: "1", backgroundColor: "hsl(64, 95%, 90%)"}
       - { label: "0", backgroundColor: "hsl(190, 95%, 90%)"}
-      - { label: "{{IsPrivate}}", backgroundColor: "hsl(278, 95%, 90%)"}
+      - { label: "{{confidential}}", backgroundColor: "hsl(278, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

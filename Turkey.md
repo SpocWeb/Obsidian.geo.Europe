@@ -1,11 +1,12 @@
 ﻿---
 location: [39.3233,32.37]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27039]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27039
+isDeleted: false
+confidential: public
 [ISO2::TR]
 [ISO3::TUR]
 [name-en::Turkey]

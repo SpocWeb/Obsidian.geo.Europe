@@ -1,11 +1,12 @@
 ﻿---
 location: [42.6,20.85]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::57604]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 57604
+isDeleted: false
+confidential: public
 [ISO2::]
 [ISO3::]
 [name-en::Kosovo]

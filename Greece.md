@@ -1,11 +1,12 @@
 ﻿---
 location: [38.6175,23.0356]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26910]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26910
+isDeleted: false
+confidential: public
 [ISO2::GR]
 [ISO3::GRC]
 [name-en::Greece]

@@ -1,11 +1,12 @@
 ﻿---
 location: [41.7167,44.7833]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26901]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26901
+isDeleted: false
+confidential: public
 [ISO2::GE]
 [ISO3::GEO]
 [name-en::Georgia]

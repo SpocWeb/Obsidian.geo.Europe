@@ -1,11 +1,12 @@
 ﻿---
 location: [43.9957,17.6905]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27061]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27061
+isDeleted: false
+confidential: public
 [ISO2::YU]
 [ISO3::YUG]
 [name-en::Yugoslavia]

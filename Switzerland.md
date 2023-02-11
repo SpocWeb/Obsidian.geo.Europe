@@ -1,11 +1,12 @@
 ﻿---
 location: [46.8963,8.46058]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26865]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26865
+isDeleted: false
+confidential: public
 [ISO2::CH]
 [ISO3::CHE]
 [name-en::Switzerland]

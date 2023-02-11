@@ -1,11 +1,12 @@
 ﻿---
 location: [50.7339,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::59064]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 59064
+isDeleted: false
+confidential: public
 [ISO2::]
 [ISO3::BRD]
 [name-en::West Germany]

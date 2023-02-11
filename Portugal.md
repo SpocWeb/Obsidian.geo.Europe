@@ -1,11 +1,12 @@
 ﻿---
 location: [42.1067,-5.10879]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27001]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27001
+isDeleted: false
+confidential: public
 [ISO2::PT]
 [ISO3::PRT]
 [name-en::Portugal]

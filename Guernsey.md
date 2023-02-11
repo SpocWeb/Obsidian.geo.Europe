@@ -1,11 +1,12 @@
 ﻿---
 location: [49.45,-2.55]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::57601]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 57601
+isDeleted: false
+confidential: public
 [ISO2::]
 [ISO3::]
 [name-en::Guernsey]

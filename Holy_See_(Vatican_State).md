@@ -1,11 +1,12 @@
 ﻿---
 location: [,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27050]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27050
+isDeleted: false
+confidential: public
 [ISO2::VA]
 [ISO3::VAT]
 [name-en::Holy See (Vatican State)]

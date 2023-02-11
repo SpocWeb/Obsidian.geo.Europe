@@ -1,11 +1,12 @@
 ﻿---
 location: [59.4167,24.75]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26885]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26885
+isDeleted: false
+confidential: public
 [ISO2::EE]
 [ISO3::EST]
 [name-en::Estonia]

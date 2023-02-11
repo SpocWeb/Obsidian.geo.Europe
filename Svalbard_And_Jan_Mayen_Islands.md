@@ -1,11 +1,12 @@
 ﻿---
 location: [,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27017]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27017
+isDeleted: false
+confidential: public
 [ISO2::SJ]
 [ISO3::SJM]
 [name-en::Svalbard And Jan Mayen Islands]

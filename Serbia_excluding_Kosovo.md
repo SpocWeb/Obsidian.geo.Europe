@@ -1,11 +1,12 @@
 ﻿---
 location: [44.82,20.48]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::4938]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 4938
+isDeleted: false
+confidential: public
 [ISO2::RS]
 [ISO3::SRB]
 [name-en::Serbia excluding Kosovo]

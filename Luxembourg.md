@@ -1,11 +1,12 @@
 ﻿---
 location: [49.6827,6.07904]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26953]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26953
+isDeleted: false
+confidential: public
 [ISO2::LU]
 [ISO3::LUX]
 [name-en::Luxembourg]

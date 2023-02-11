@@ -1,11 +1,12 @@
 ﻿---
 location: [43.87,18.43]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26841]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26841
+isDeleted: false
+confidential: public
 [ISO2::BA]
 [ISO3::BIH]
 [name-en::Bosnia and Herzegovina]

@@ -1,11 +1,13 @@
 ﻿---
 location: [53.9,27.57]
 type: Country
-tags: [geo/Country]
+SpocWebEntityId: 26858
+isDeleted: false
+confidential: public
+tags:
+- geo/Country
+
 ---
-[KWebEntityId::26858]
-[IsDeleted::0]
-[IsPrivate::0]
 [ISO2::BY]
 [ISO3::BLR]
 [name-en::Belarus]

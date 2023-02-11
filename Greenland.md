@@ -1,11 +1,12 @@
 ﻿---
 location: [64.25,-51.67]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26905]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26905
+isDeleted: false
+confidential: public
 [ISO2::GL]
 [ISO3::GRL]
 [name-en::Greenland]

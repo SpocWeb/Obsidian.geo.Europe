@@ -1,11 +1,12 @@
 ﻿---
 location: [54.6833,25.3167]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26952]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26952
+isDeleted: false
+confidential: public
 [ISO2::LT]
 [ISO3::LTU]
 [name-en::Lithuania]

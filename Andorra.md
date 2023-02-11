@@ -1,11 +1,12 @@
 ﻿---
 location: [42.5167,1.51333]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26825]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26825
+isDeleted: false
+confidential: public
 [ISO2::AD]
 [ISO3::AND]
 [name-en::Andorra]

@@ -1,11 +1,12 @@
 ﻿---
 location: [50.45,30.5]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27044]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27044
+isDeleted: false
+confidential: public
 [ISO2::UA]
 [ISO3::UKR]
 [name-en::Ukraine]

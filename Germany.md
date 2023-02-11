@@ -1,14 +1,24 @@
 ﻿---
 location: [50.8699,10.1207]
 type: Country
-tags: [geo/Country]
+SpocWebEntityId: 26878
+isDeleted: false
+confidential: public
+tags:
+- geo/Country
+
 ---
-[KWebEntityId::26878]
-[IsDeleted::0]
-[IsPrivate::0]
 [ISO2::DE]
 [ISO3::DEU]
 [name-en::Germany]
+
+![[Coat_of_arms_of_Germany.svg]]
+
+[Anthem::![[National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg]]
+
+![[Flag_of_Germany.svg]]
+
+
 [name-de::Deutschland]
 [Area-Total::357042]
 [Area-Land::349270]

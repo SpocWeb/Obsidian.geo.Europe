@@ -1,11 +1,12 @@
 ﻿---
 location: [53.0702,-7.70895]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26923]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26923
+isDeleted: false
+confidential: public
 [ISO2::IE]
 [ISO3::IRL]
 [name-en::Ireland]

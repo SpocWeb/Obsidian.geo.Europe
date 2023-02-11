@@ -1,11 +1,12 @@
 ﻿---
 location: [62.3173,25.4668]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26891]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26891
+isDeleted: false
+confidential: public
 [ISO2::FI]
 [ISO3::FIN]
 [name-en::Finland]

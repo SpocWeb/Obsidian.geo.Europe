@@ -1,11 +1,12 @@
 ﻿---
 location: [78,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::76730]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 76730
+isDeleted: false
+confidential: public
 [ISO2::]
 [ISO3::]
 [name-en::Svalbard]

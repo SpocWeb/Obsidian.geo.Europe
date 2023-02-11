@@ -1,11 +1,12 @@
 ﻿---
 location: [,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::59063]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 59063
+isDeleted: false
+confidential: public
 [ISO2::]
 [ISO3::DDR]
 [name-en::East Germany]

@@ -1,11 +1,12 @@
 ﻿---
 location: [43.93,12.45]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27020]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27020
+isDeleted: false
+confidential: public
 [ISO2::SM]
 [ISO3::SMR]
 [name-en::San Marino]

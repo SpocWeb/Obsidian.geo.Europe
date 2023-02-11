@@ -1,11 +1,12 @@
 ﻿---
 location: [49.7633,15.8734]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26877]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26877
+isDeleted: false
+confidential: public
 [ISO2::CZ]
 [ISO3::CZE]
 [name-en::Czech Rep.]

@@ -1,11 +1,12 @@
 ﻿---
 location: [,]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26897]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26897
+isDeleted: false
+confidential: public
 [ISO2::FX]
 [ISO3::FXX]
 [name-en::France, Metropolitan]

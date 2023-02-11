@@ -1,11 +1,12 @@
 ﻿---
 location: [47.712,14.381]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26837]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26837
+isDeleted: false
+confidential: public
 [ISO2::AT]
 [ISO3::AUT]
 [name-en::Austria]

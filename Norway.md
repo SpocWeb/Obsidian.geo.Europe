@@ -1,11 +1,12 @@
 ﻿---
 location: [61.8685,11.4588]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::26984]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 26984
+isDeleted: false
+confidential: public
 [ISO2::NO]
 [ISO3::NOR]
 [name-en::Norway]

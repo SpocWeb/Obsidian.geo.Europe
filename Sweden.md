@@ -1,11 +1,12 @@
 ﻿---
 location: [59.7646,16.5434]
 type: Country
-tags: [geo/Country]
+tags:
+- geo/Country
 ---
-[KWebEntityId::27013]
-[IsDeleted::0]
-[IsPrivate::0]
+SpocWebEntityId: 27013
+isDeleted: false
+confidential: public
 [ISO2::SE]
 [ISO3::SWE]
 [name-en::Sweden]
