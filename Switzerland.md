@@ -3,10 +3,12 @@ location: [46.8963,8.46058]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26865
 isDeleted: false
 confidential: public
+
+---
 [ISO2::CH]
 [ISO3::CHE]
 [name-en::Switzerland]

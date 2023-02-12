@@ -3,10 +3,12 @@ location: [41.98,21.43]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26961
 isDeleted: false
 confidential: public
+
+---
 [ISO2::MK]
 [ISO3::MKD]
 [name-en::Macedonia, FYR]

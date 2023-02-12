@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 29591
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::28.91667]
 [geo-lat::47]
 [name::Chisinau]

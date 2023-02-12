@@ -3,10 +3,12 @@ location: [49.45,-2.55]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 57601
 isDeleted: false
 confidential: public
+
+---
 [ISO2::]
 [ISO3::]
 [name-en::Guernsey]

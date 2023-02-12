@@ -3,10 +3,12 @@ location: [52.0027,17.6996]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26996
 isDeleted: false
 confidential: public
+
+---
 [ISO2::PL]
 [ISO3::POL]
 [name-en::Poland]

@@ -3,10 +3,12 @@ location: [50.7339,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 59064
 isDeleted: false
 confidential: public
+
+---
 [ISO2::]
 [ISO3::BRD]
 [name-en::West Germany]

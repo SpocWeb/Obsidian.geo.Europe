@@ -3,10 +3,12 @@ location: [48.13,17.1]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27018
 isDeleted: false
 confidential: public
+
+---
 [ISO2::SK]
 [ISO3::SVK]
 [name-en::Slovakia]

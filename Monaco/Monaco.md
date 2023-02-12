@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 32545
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::7.4]
 [geo-lat::43.7]
 [name::Monaco]

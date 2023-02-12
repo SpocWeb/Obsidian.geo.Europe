@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 35920
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::33.46667]
 [geo-lat::35.13334]
 [name::Nicosia]

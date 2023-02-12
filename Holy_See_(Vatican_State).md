@@ -3,10 +3,12 @@ location: [,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27050
 isDeleted: false
 confidential: public
+
+---
 [ISO2::VA]
 [ISO3::VAT]
 [name-en::Holy See (Vatican State)]

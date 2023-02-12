@@ -3,10 +3,12 @@ location: [41.7167,44.7833]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
+
+---
 [ISO2::GE]
 [ISO3::GEO]
 [name-en::Georgia]

@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 33917
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::12.45]
 [geo-lat::43.93]
 [name::San Marino]

@@ -3,10 +3,12 @@ location: [39.3233,32.37]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27039
 isDeleted: false
 confidential: public
+
+---
 [ISO2::TR]
 [ISO3::TUR]
 [name-en::Turkey]

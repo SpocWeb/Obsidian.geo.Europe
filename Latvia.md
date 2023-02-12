@@ -3,10 +3,12 @@ location: [56.95,24.11]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26954
 isDeleted: false
 confidential: public
+
+---
 [ISO2::LV]
 [ISO3::LVA]
 [name-en::Latvia]

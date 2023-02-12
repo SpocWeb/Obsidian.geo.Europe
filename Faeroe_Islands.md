@@ -3,10 +3,12 @@ location: [62,-6.78333]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26895
 isDeleted: false
 confidential: public
+
+---
 [ISO2::FO]
 [ISO3::FRO]
 [name-en::Faeroe Islands]

@@ -3,10 +3,12 @@ location: [35.9,14.52]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26970
 isDeleted: false
 confidential: public
+
+---
 [ISO2::MT]
 [ISO3::MLT]
 [name-en::Malta]

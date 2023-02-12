@@ -3,10 +3,12 @@ location: [64.614,-21.718]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26929
 isDeleted: false
 confidential: public
+
+---
 [ISO2::IS]
 [ISO3::ISL]
 [name-en::Iceland]

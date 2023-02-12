@@ -3,10 +3,12 @@ location: [43.715,7.41]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26957
 isDeleted: false
 confidential: public
+
+---
 [ISO2::MC]
 [ISO3::MCO]
 [name-en::Monaco]

@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 33951
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::18.43]
 [geo-lat::43.87]
 [name::Sarajevo]

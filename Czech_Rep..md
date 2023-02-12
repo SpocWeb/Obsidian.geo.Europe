@@ -3,10 +3,12 @@ location: [49.7633,15.8734]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26877
 isDeleted: false
 confidential: public
+
+---
 [ISO2::CZ]
 [ISO3::CZE]
 [name-en::Czech Rep.]

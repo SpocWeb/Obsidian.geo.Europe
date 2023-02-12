@@ -3,10 +3,12 @@ location: [40.0911,-2.86673]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26889
 isDeleted: false
 confidential: public
+
+---
 [ISO2::ES]
 [ISO3::ESP]
 [name-en::Spain]

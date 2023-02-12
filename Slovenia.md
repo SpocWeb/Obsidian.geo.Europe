@@ -3,10 +3,12 @@ location: [46.05,14.52]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27016
 isDeleted: false
 confidential: public
+
+---
 [ISO2::SI]
 [ISO3::SVN]
 [name-en::Slovenia]

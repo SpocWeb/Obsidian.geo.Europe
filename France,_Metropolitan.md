@@ -3,10 +3,12 @@ location: [,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26897
 isDeleted: false
 confidential: public
+
+---
 [ISO2::FX]
 [ISO3::FXX]
 [name-en::France, Metropolitan]

@@ -3,10 +3,12 @@ location: [,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 76719
 isDeleted: false
 confidential: public
+
+---
 [ISO2::]
 [ISO3::]
 [name-en::Akrotiri and Dhekelia]

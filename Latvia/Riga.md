@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 33739
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::24.11]
 [geo-lat::56.95]
 [name::Riga]

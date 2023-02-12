@@ -3,10 +3,12 @@ location: [43.93,12.45]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27020
 isDeleted: false
 confidential: public
+
+---
 [ISO2::SM]
 [ISO3::SMR]
 [name-en::San Marino]

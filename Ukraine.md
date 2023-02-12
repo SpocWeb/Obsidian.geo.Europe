@@ -3,10 +3,12 @@ location: [50.45,30.5]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27044
 isDeleted: false
 confidential: public
+
+---
 [ISO2::UA]
 [ISO3::UKR]
 [name-en::Ukraine]

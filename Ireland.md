@@ -3,10 +3,12 @@ location: [53.0702,-7.70895]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26923
 isDeleted: false
 confidential: public
+
+---
 [ISO2::IE]
 [ISO3::IRL]
 [name-en::Ireland]

@@ -3,10 +3,12 @@ location: [52.6418,47.4574]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27007
 isDeleted: false
 confidential: public
+
+---
 [ISO2::RU]
 [ISO3::RUS]
 [name-en::Russia]

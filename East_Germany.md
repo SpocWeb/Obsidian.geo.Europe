@@ -3,10 +3,12 @@ location: [,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 59063
 isDeleted: false
 confidential: public
+
+---
 [ISO2::]
 [ISO3::DDR]
 [name-en::East Germany]

@@ -3,10 +3,12 @@ location: [35.1833,33.3667]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 57606
 isDeleted: false
 confidential: public
+
+---
 [ISO2::]
 [ISO3::]
 [name-en::Northern Cyprus]

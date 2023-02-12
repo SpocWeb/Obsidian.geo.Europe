@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 31422
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::30.5]
 [geo-lat::50.45]
 [name::Kiew]

@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 29469
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::1.52]
 [geo-lat::42.48]
 [name::Canillo]

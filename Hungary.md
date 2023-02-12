@@ -3,10 +3,12 @@ location: [47.2796,19.1508]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26921
 isDeleted: false
 confidential: public
+
+---
 [ISO2::HU]
 [ISO3::HUN]
 [name-en::Hungary]

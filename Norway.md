@@ -3,10 +3,12 @@ location: [61.8685,11.4588]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26984
 isDeleted: false
 confidential: public
+
+---
 [ISO2::NO]
 [ISO3::NOR]
 [name-en::Norway]

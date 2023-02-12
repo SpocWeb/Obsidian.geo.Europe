@@ -4,10 +4,12 @@ type: City
 tags:
 - geo/City
 
----
+
 SpocWebEntityId: 34310
 isDeleted: false
 confidential: public
+
+---
 [geo-lon::21.43]
 [geo-lat::41.98]
 [name::Skopje]

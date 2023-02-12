@@ -3,10 +3,12 @@ location: [43.4809,11.8169]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26930
 isDeleted: false
 confidential: public
+
+---
 [ISO2::IT]
 [ISO3::ITA]
 [name-en::Italy]

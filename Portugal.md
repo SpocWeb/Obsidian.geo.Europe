@@ -3,10 +3,12 @@ location: [42.1067,-5.10879]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 27001
 isDeleted: false
 confidential: public
+
+---
 [ISO2::PT]
 [ISO3::PRT]
 [name-en::Portugal]

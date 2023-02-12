@@ -3,10 +3,12 @@ location: [47,28.9167]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26958
 isDeleted: false
 confidential: public
+
+---
 [ISO2::MD]
 [ISO3::MDA]
 [name-en::Moldova]

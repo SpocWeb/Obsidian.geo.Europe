@@ -3,10 +3,12 @@ location: [36.143,]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26904
 isDeleted: false
 confidential: public
+
+---
 [ISO2::GI]
 [ISO3::GIB]
 [name-en::Gibraltar]

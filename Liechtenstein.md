@@ -3,10 +3,12 @@ location: [47.158,9.529]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26948
 isDeleted: false
 confidential: public
+
+---
 [ISO2::LI]
 [ISO3::LIE]
 [name-en::Liechtenstein]

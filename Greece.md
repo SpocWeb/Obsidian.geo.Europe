@@ -3,10 +3,12 @@ location: [38.6175,23.0356]
 type: Country
 tags:
 - geo/Country
----
+
 SpocWebEntityId: 26910
 isDeleted: false
 confidential: public
+
+---
 [ISO2::GR]
 [ISO3::GRC]
 [name-en::Greece]
